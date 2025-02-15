@@ -73,6 +73,7 @@ CommerceBankPro is an advanced online banking platform designed to offer a seaml
 - **Git & GitHub** – Version Control
 - **Figma** – UI/UX Designing
 - **MySQL Workbench** – Database Management
+- **Selenium** – Testing
 
 ---
 
