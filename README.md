@@ -1,4 +1,4 @@
-# 🚀 CommerceBankPro (Static Main)
+# 🚀 CommerceBankPro 
 
 ## 📌 Introduction
 CommerceBankPro is an advanced online banking platform designed to offer a seamless and secure banking experience. This project integrates essential banking functionalities such as user authentication, account management, fund transfers, and transaction tracking, ensuring a smooth user journey. The platform is built with **React.js** for the frontend and **Node.js with MySQL** for backend operations, making it robust, scalable, and efficient.
